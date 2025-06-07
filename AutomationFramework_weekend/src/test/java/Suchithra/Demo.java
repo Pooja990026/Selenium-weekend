@@ -9,7 +9,7 @@ package Suchithra;
 	@Test
 	public void launch() {
 		WebDriver driver= new ChromeDriver();
-		WebDriver driver= new ChromeDriver();
+		WebDriver driver1= new ChromeDriver();
 	}
 
 	}
